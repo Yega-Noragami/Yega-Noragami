@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 -------------------------
 
-Computer Scientist with 3+ years of experience in Research and Development of Machine Learning algorithms and pipelines.I am passionate about applying Machine Learning to solve real-world problems
+A computer scientist with 3+ years of experience in building cutting-edge machine learning algorithms and pipelines.  I love building ML projects from scratch, tackling real-world challenges head-on (think CV, NLP projects and beyond!), and recently, I've been diving into the mesmerizing world of Generative AI.
+
+When I'm not crafting code, you'll find me unleashing my inner artist, using ML to create mind-bending art installations.  Combining my love for problem-solving and creativity is what fuels me!
 
 *   🌍  I'm based in Hong Kong
 *   ✉️  You can contact me at [manishdhalcareer@gmail.com](mailto:manishdhalcareer@gmail.com)
