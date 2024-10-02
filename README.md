@@ -6,9 +6,7 @@ Hi, My name is Manish Dhal
 Machine Learning Engineer
 -------------------------
 
-A computer scientist with 3+ years of experience in building cutting-edge machine learning algorithms and pipelines.  I love building ML projects from scratch, tackling real-world challenges head-on (think CV, NLP projects and beyond!), and recently, I've been diving into the mesmerizing world of Generative AI.
-
-When I'm not crafting code, you'll find me unleashing my inner artist, using ML to create mind-bending art installations.  Combining my love for problem-solving and creativity is what fuels me!
+A computer scientist with 3+ years of experience in building cutting-edge machine learning algorithms and pipelines.  I love building ML projects from scratch, tackling real-world challenges head-on (think CV, NLP projects and beyond!), and recently, I've been diving into the world of Generative AI.
 
 *   🌍  I'm based in Hong Kong
 *   ✉️  You can contact me at [manishdhalcareer@gmail.com](mailto:manishdhalcareer@gmail.com)
